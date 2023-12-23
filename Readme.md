@@ -5,11 +5,11 @@
    >
    > 2. Finding the Corresponding Eigenvalues and Eigenvector of the data
    >
-    > 3. selecting the optimal number of required eigenvectors(Principal Components) that keep the major information of the data
-    >
-    > 4. Transforming the input data matrix into the selected number of eigenvectors's dimensions.   
-    >  
-    > 5. Plotting the PCA data 
+   > 3. selecting the optimal number of required eigenvectors(Principal Components) that keep the major information of the data
+   >
+   > 4. Transforming the input data matrix into the selected number of eigenvectors's dimensions.   
+   >  
+   > 5. Plotting the PCA data 
 
 > [!NOTE]
 > Before running the Jupyter file, you have to run the [requirement.txt](requirement.txt) file for the required Python libraries.
