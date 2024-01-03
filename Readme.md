@@ -11,9 +11,9 @@
    >  
    > 5. Plotting the PCA data 
 
-> [!NOTE]
+>[!NOTE]
 > Before running the Jupyter file, you have to run the [requirement.txt](requirement.txt) file for the required Python libraries.
-  pip install requirement.txt 
+pip install requirement.txt 
 
 The availability of the data are from this website,
 [Data Source](https://archive.ics.uci.edu/dataset/109/wine)
