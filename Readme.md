@@ -1,4 +1,4 @@
-## This repository is an example that showcases how can we do dimensional reduction by keeping the information of the data by using Principal Component Analysis(PCA).
+#### This repository is an example that showcases how can we do dimensional reduction by keeping the information of the data by using Principal Component Analysis(PCA).
 
 ### Important Steps for PCA analysis: 
    > 1. Standardization of the data 
